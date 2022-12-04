@@ -9,13 +9,11 @@
 
 
 
-<img src="" width="760" height="410">
+<img src="images\p화면.png" width="760" height="410">
 
-
-
-  
   <BR><BR><BR>
 <img src="https://img.shields.io/badge/SKILLS-0288D1?style=flat-square&logo=BookStackColor=red"/>
+#6<img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/>
 - JAVASCRIPT
 - TYPESCRIPT
 - PHP
