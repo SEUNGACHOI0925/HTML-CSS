@@ -75,6 +75,25 @@
   animation-duration: 2s;
 }
 
+.border_css{
+  border-left: blue 5px solid;
+  padding-left: 5px;
+}
+
+.button0925{
+  text-decoration: none;
+  color: rgb(116, 116, 116);
+  border: rgb(116, 116, 116) 1px solid;
+  border-radius: 10px;
+  padding: 1em 3em;
+}
+
+.button0925:hover{
+  color:blue;
+  border: blue 1px solid;
+  border-radius: 10px;
+  padding: 1em 3em;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   :root {
@@ -7788,7 +7807,8 @@ textarea.form-control-lg {
 
 .text-white {
   --bs-text-opacity: 1;
-  color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
+  color: blue !important;
+  /* color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important; */
 }
 
 .text-body {
