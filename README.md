@@ -24,6 +24,8 @@
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
 
+<img src="images\page.mp4"/>
+
 
   <BR><BR><BR>
  <img src="images\p2.png" width="550" height="410"><br>
