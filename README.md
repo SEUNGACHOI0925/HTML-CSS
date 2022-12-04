@@ -21,8 +21,7 @@
  (*아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다)<br><br><br><br>
     
 🟩 화면의 버튼을 차례대로 누르시면 아래 화면처럼 이어집니다.<br>
-<br>
-    
+
 <img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
 
 
