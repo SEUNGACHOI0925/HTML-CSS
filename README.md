@@ -14,8 +14,7 @@
 - JAVASCRIPT
 - TYPESCRIPT
 - PHP
-- HTML/CSS 
-- C# 
+
   <BR><BR><BR>
  
     
