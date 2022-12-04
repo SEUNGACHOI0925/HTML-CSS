@@ -26,10 +26,10 @@
 
 
   <BR><BR><BR>
- <img src="images\p2.png" width="850" height="710"><br>
+ <img src="images\p2.png" width="760" height="410"><br>
     
  아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다<br>
-<img src="images\p3.png" width="550" height="410"><br>
+<img src="images\p3.png" width="760" height="410"><br>
 
 
 <img src="https://user-images.githubusercontent.com/112832677/204165081-c701e840-b584-4ff1-8684-66087ab7af58.png" width="350" height="210"> <img src="https://user-images.githubusercontent.com/112832677/204165087-1cead5aa-9a10-4d63-8203-9bf03b96d8d7.png" width="350" height="210"> <br><br>
