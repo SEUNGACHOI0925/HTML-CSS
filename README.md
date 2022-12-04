@@ -5,14 +5,14 @@
 
 <hr>
 
-<center> ##### 🌟SKILLS🌟 </center>
+##### <center>🌟SKILLS🌟
   
 <img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/> </center>
 
-<center> ##### 🌟TOOLS🌟 </center>
-<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/>
+##### <center> 🌟TOOLS🌟 
+<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/></center>
 
 
 <BR><BR><BR>
