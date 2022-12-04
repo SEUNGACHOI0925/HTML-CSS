@@ -10,12 +10,12 @@
     
 <br>
  페이지 구성은 포트폴리오 커버 화면, 포트폴리오 당사자의 간단한 소개와 스킬, 간련 스킬내용을 간단히 열람할 수 있도록 연결해 놓았습니다.
- (아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다)<br>
+ (아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다)<br><br><br>
     화면의 버튼을 차례대로 누르시면 아래 화면처럼 이어집니다.<br>
 <br>
     
 <img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
-  
+  <br><br><br>
 ##### 🌟SKILLS🌟
   
 <img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
