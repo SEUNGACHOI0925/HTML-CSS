@@ -5,7 +5,7 @@
 
 <hr>
 
-🌟<img src="https://img.shields.io/badge/SKILLS-0288D1?style=flat-square&logo=BookStackColor=red"/>🌟
+##### 🌟<img src="https://img.shields.io/badge/SKILLS-0288D1?style=flat-square&logo=BookStackColor=red"/>🌟
   
 <img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
