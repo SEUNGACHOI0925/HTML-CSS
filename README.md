@@ -12,7 +12,7 @@
 <BR> 
 <img src="images\p화면.png" width="430" height="210"> <img src="images\p2.png" width="430" height="210"> <img src="images\p3.png" width="430" height="210">
     
-<br>
+<br><br>
   
  ✅ 페이지 구성
 - 포트폴리오 커버 화면
