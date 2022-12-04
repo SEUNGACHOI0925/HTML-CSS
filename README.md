@@ -6,7 +6,7 @@
 <hr>
 
 <BR><BR><BR>
-<BR><BR><BR>
+
     
 <img src="images\p화면.png" width="330" height="160"> <img src="images\p2.png"  width="330" height="160"> <img src="images\p3.png" width="330" height="160">
     
@@ -29,5 +29,5 @@
     
  <img src="https://github-readme-stats.vercel.app/api?username=SEUNGACHOI0925&show_icons=true">   
     
-    
+    <BR><BR><BR>
     
