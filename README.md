@@ -19,7 +19,7 @@
 
   <BR><BR><BR>
     
-<img src="images\p화면.png" width="350" height="160"> <img src="images\p2.png"  width="350" height="160"> <img src="images\p3.png" width="350" height="160">
+<img src="images\p화면.png" width="330" height="160"> <img src="images\p2.png"  width="330" height="160"> <img src="images\p3.png" width="330" height="160">
     
 <br>
  페이지 구성은 포트폴리오 커버 화면, 포트폴리오 당사자의 간단한 소개와 스킬, 간련 스킬내용을 간단히 열람할 수 있도록 연결해 놓았습니다.
