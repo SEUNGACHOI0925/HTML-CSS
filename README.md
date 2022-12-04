@@ -10,7 +10,7 @@
 
 
 <BR> 
-<img src="images\p화면.png" width="530" height="360"> <img src="images\p2.png" width="530" height="360"> <img src="images\p3.png" width="530" height="360">
+<img src="images\p화면.png" width="430" height="210"> <img src="images\p2.png" width="430" height="210"> <img src="images\p3.png" width="430" height="210">
     
 <br>
   
