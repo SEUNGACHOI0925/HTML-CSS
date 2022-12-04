@@ -1,23 +1,23 @@
 ##  Portfolio Website - <a href="https://seungachoi0925.github.io/HTML-CSS/">Github</a> or - <a href="https://sample-seungachoi0925.netlify.app/">Netlify</a>
 
 #### SEUNGA-CHOI PORTFOLIO SITE
-최승아의 포트폴리오 업데이트 사이트 입니다.
+최승아의 포트폴리오 업데이트 사이트 입니다😉
 
 <hr>
 
-
-
-
-
-
-<img src="images\p화면.png" width="760" height="410">
-
-  <BR><BR><BR>
-<img src="https://img.shields.io/badge/SKILLS-0288D1?style=flat-square&logo=BookStackColor=red"/>
+🌟<img src="https://img.shields.io/badge/SKILLS-0288D1?style=flat-square&logo=BookStackColor=red"/>🌟
   
 <img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
+
+
+<BR><BR><BR>
+
+<img src="images\p화면.png" width="760" height="410">
+
+  
+
 
 
   <BR><BR><BR>
