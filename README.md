@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
 
   <br><br>
-  <img src="https://user-images.githubusercontent.com/112832677/204165081-c701e840-b584-4ff1-8684-66087ab7af58.png" width="350" height="160"> <img src="https://user-images.githubusercontent.com/112832677/204165087-1cead5aa-9a10-4d63-8203-9bf03b96d8d7.png" width="350" height="210"> <br><br>
+  <img src="https://user-images.githubusercontent.com/112832677/204165081-c701e840-b584-4ff1-8684-66087ab7af58.png" width="350" height="210"> <img src="https://user-images.githubusercontent.com/112832677/204165087-1cead5aa-9a10-4d63-8203-9bf03b96d8d7.png" width="350" height="210"> <br><br>
   
 ##### 🌟SKILLS🌟
   
@@ -28,3 +28,8 @@
 
 ##### 🌟TOOLS🌟 
 <img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/> 
+    
+ <img src="https://github-readme-stats.vercel.app/api?username=SEUNGACHOI0925&show_icons=true">   
+    
+    
+    
