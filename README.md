@@ -16,9 +16,6 @@
 <br>
     
 <img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
-
-  <br><br>
-  <img src="https://user-images.githubusercontent.com/112832677/204165081-c701e840-b584-4ff1-8684-66087ab7af58.png" width="350" height="210"> <img src="https://user-images.githubusercontent.com/112832677/204165087-1cead5aa-9a10-4d63-8203-9bf03b96d8d7.png" width="350" height="210"> <br><br>
   
 ##### 🌟SKILLS🌟
   
