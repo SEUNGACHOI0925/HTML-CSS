@@ -5,6 +5,15 @@
 
 <hr>
 
+##### 🌟SKILLS🌟
+  
+<img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
+
+##### 🌟TOOLS🌟 
+<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/> 
+
 <BR> 
 <img src="images\p화면.png" width="330" height="160"> <img src="images\p2.png"  width="330" height="160"> <img src="images\p3.png" width="330" height="160">
     
@@ -19,14 +28,7 @@
 <img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
   <br><br><br>
 
-##### 🌟SKILLS🌟
-  
-<img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
 
-##### 🌟TOOLS🌟 
-<img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/> 
     
  <img src="https://github-readme-stats.vercel.app/api?username=SEUNGACHOI0925&show_icons=true">   
     
