@@ -15,8 +15,8 @@
   
 
 
-<img src="images\page.mp4"/>
 
+<img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
 
   <BR><BR><BR>
  <img src="images\p2.png" width="760" height="410"><br>
