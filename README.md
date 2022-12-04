@@ -26,9 +26,9 @@
 
 
   <BR><BR><BR>
- <img src="images\p2.png" width="550" height="410"><br>
+ <img src="images\p2.png" width="850" height="710"><br>
     
-    - 아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다<br>
+ 아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다<br>
 <img src="images\p3.png" width="550" height="410"><br>
 
 
