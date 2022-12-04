@@ -3,8 +3,6 @@
 #### SEUNGA-CHOI PORTFOLIO SITE
 최승아의 포트폴리오 업데이트 사이트 입니다
 
-<hr>
-
 ##### 🌟SKILLS🌟
   
 <img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -13,6 +11,10 @@
 
 ##### 🌟TOOLS🌟 
 <img src="https://img.shields.io/badge/Visual studio Code-007ACC?style=flat&logo=Visual studio Code&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=violet"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=ivory"/> 
+
+<hr>
+
+
 
 <BR> 
 <img src="images\p화면.png" width="330" height="160"> <img src="images\p2.png"  width="330" height="160"> <img src="images\p3.png" width="330" height="160">
