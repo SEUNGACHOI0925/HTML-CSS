@@ -15,12 +15,9 @@
   <BR><BR><BR>
 <img src="https://img.shields.io/badge/SKILLS-0288D1?style=flat-square&logo=BookStackColor=red"/>
   
-<img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=PINK"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=green"/>
 
 
   <BR><BR><BR>
