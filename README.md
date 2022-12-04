@@ -18,6 +18,7 @@
     
 <img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
   <br><br><br>
+
 ##### 🌟SKILLS🌟
   
 <img src="https://img.shields.io/badge/HTML5-E34F2?style=flat&logo=HTML5&logoColor=blue"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=yello"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
@@ -29,5 +30,5 @@
     
  <img src="https://github-readme-stats.vercel.app/api?username=SEUNGACHOI0925&show_icons=true">   
     
-    <BR><BR><BR>
+<br><br><br>
     
