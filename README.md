@@ -15,19 +15,21 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
+
 
   <BR><BR><BR>
     
-<img src="images\p화면.png" width="350" height="160">
+<img src="images\p화면.png" width="350" height="160"> <img src="images\p2.png"  width="350" height="160"> <img src="images\p3.png" width="350" height="160">
     
- <img src="images\p2.png"  width="350" height="160"><br>
-    
- 아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다<br>
-<img src="images\p3.png" width="350" height="160"><br>
+<br>
+ 페이지 구성은 포트폴리오 커버 화면, 포트폴리오 당사자의 간단한 소개와 스킬, 간련 스킬내용을 간단히 열람할 수 있도록 연결해 놓았습니다.
+ (아래 Portfolio 페이지의 skills 목록의 버튼을 클릭하면 버튼에 연결된 url로 해당 skill 페이지 조회가 가능합니다)<br>
+<br>
 
 
 <img src="https://user-images.githubusercontent.com/112832677/204165081-c701e840-b584-4ff1-8684-66087ab7af58.png" width="350" height="160"> <img src="https://user-images.githubusercontent.com/112832677/204165087-1cead5aa-9a10-4d63-8203-9bf03b96d8d7.png" width="350" height="210"> <br><br>
+    
+<img src="https://user-images.githubusercontent.com/112832677/205490672-b2f2a487-fea5-4ef0-be0d-f2ba738a65ba.gif" width="760" height="410">
 
 ##### 🌟SKILLS🌟
   
