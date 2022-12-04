@@ -76,21 +76,21 @@
 }
 
 .border_css{
-  border-left: blue 5px solid;
-  padding-left: 5px;
+  border-left: #0d6efd 5px solid;
+  padding-left: 7px;
 }
 
 .button0925{
   text-decoration: none;
-  color: rgb(116, 116, 116);
-  border: rgb(116, 116, 116) 1px solid;
+  color: #0d6efd;
+  border: #0d6efd 1px solid;
   border-radius: 10px;
   padding: 1em 3em;
 }
 
 .button0925:hover{
-  color:blue;
-  border: blue 1px solid;
+  color:#0d6efd;
+  border: #0d6efd 1px solid;
   border-radius: 10px;
   padding: 1em 3em;
 }
@@ -1412,10 +1412,11 @@ progress {
     width: 41.66666667%;
   }
 
-  .col-lg-6 {
+  .col-lg-6  { /*about, skill 박스 내부 영역*/
     flex: 0 0 auto;
     width: 50%;
     margin-bottom: 50px;
+    
   }
 
   .col-lg-7 {
@@ -1616,7 +1617,7 @@ progress {
     width: 25%;
   }
 
-  .col-xl-4 {
+  .col-xl-4 { /* skills 카드 내부 폰트 영역*/
     flex: 0 0 auto;
     width: 33.33333333%;
   }
@@ -4545,7 +4546,7 @@ textarea.form-control-lg {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
-
+  
 }
 
 .sec22{
@@ -4578,7 +4579,6 @@ textarea.form-control-lg {
 .card-body {
   flex: 1 1 auto;
   padding: 1rem 1rem;
-  width: ;
   /* align-content: center; */
 }
 
@@ -10378,6 +10378,7 @@ textarea.form-control-lg {
 
   .mb-xl-0 {
     margin-bottom: 0 !important;
+    
   }
 
   .mb-xl-1 {
