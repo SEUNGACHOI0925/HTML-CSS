@@ -2,8 +2,8 @@
 
 #### SEUNGA-CHOI PORTFOLIO SITE
 최승아의 포트폴리오 업데이트 사이트 입니다<br>
-(https://seungachoi0925.github.io/HTML-CSS/)
-한 페이지 내에 포트폴리오 링크를 연결하여 편리하게 볼 수 있게 구성하였습니다.
+(https://seungachoi0925.github.io/HTML-CSS/)<br><br>
+페이지 내에 포트폴리오 링크를 연결하여 편리하게 볼 수 있게 구성하였습니다.
  (차후 계속 업데이트 될 예정입니다.)
 
 
