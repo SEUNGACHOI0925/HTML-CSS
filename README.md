@@ -1,7 +1,7 @@
 ##  Portfolio Website - <a href="https://seungachoi0925.github.io/HTML-CSS/">Github</a> or - <a href="https://sample-seungachoi0925.netlify.app/">Netlify</a>
 
 #### SEUNGA-CHOI PORTFOLIO SITE
-최승아의 포트폴리오 업데이트 사이트 입니다
+최승아의 포트폴리오 업데이트 사이트 입니다<br>
 (https://seungachoi0925.github.io/HTML-CSS/)
 
 
@@ -16,8 +16,8 @@
 <br><br>
   
  ✅ 사이트 업데이트
-- 한 페이지로 구성하여 포트폴리오 내용을 편리하게 확인 할 수 있게 구성하였습니다(차후 계속 업데이트 될 예정입니다.)
-    
+- 한 페이지로 구성하여 포트폴리오 내용을 편리하게 볼 수 있게 구성하였습니다(차후 계속 업데이트 될 예정입니다.)
+    <br>
     
  ✅ 페이지 구성
 - 포트폴리오 커버 화면
