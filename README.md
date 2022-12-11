@@ -13,8 +13,11 @@
  (차후 계속 업데이트 될 예정입니다.)<br><br>
     
     
-    <br><br>
-    <img src="images\p화면.png" width="430" height="210"> <img src="images\p2.png" width="430" height="210"> <img src="images\p3.png" width="430" height="210">
+<br><br>
+    
+ <img src="images\p화면.png" width="430" height="210"> <img src="images\p2.png" width="430" height="210"> <img src="images\p3.png" width="430" height="210">
+ <br>
+ 
  ✅ 페이지 구성
 - 포트폴리오 커버 화면
 - 포트폴리오 당사자의 간단한 소개와 스킬 목록
