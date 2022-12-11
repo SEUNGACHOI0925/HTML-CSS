@@ -7,13 +7,13 @@
 
 
 <hr>
-<br>
+<br><br>
   
  ✅ 한 페이지 내에 포트폴리오 내용을 연결하여 편리하게 볼 수 있게 구성하였습니다.
  (차후 계속 업데이트 될 예정입니다.)<br><br>
     
     
-<br><br>
+<br>
     
  <img src="images\p화면.png" width="430" height="210"> <img src="images\p2.png" width="430" height="210"> <img src="images\p3.png" width="430" height="210">
  <br><br>
