@@ -2,6 +2,7 @@
 
 #### SEUNGA-CHOI PORTFOLIO SITE
 최승아의 포트폴리오 업데이트 사이트 입니다
+(https://seungachoi0925.github.io/HTML-CSS/)
 
 
 
